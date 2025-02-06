@@ -1,5 +1,58 @@
-# Vue 3 + TypeScript + Vite
+# 🚀 Vite + Vue 3 + TypeScript + Prive Vue + Tailwind CSS
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Этот проект создан с использованием **Vite**, **Vue 3**, **TypeScript**, **Prime Vue** и **Tailwind CSS**.
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+## 📦 Установка
+
+1. **Склонируйте репозиторий**:
+   ```sh
+   git clone https://github.com/webruslan1/frontend-test-way2ar.git
+   cd ваш-репозиторий
+   ```
+
+2. **Установите зависимости**:
+   ```sh
+   npm install
+   ```
+
+## 🚀 Запуск проекта
+
+```sh
+npm run dev
+```
+
+Сервер запустится по адресу: **http://localhost:5173/**
+
+## 📜 Команды
+
+| Команда        | Описание |
+|---------------|------------|
+| `npm install` | Установить зависимости |
+| `npm run dev` | Запустить локальный сервер |
+| `npm run build` | Скомпилировать проект |
+| `npm run preview` | Предпросмотр собранного проекта |
+| `npm run lint` | Проверить код линтером |
+
+## 📁 Структура проекта
+
+```
+📦 ваш-репозиторий
+├── 📂 src
+│   ├── 📂 assets      # Статические файлы (изображения)
+│   ├── 📂 components  # Компоненты Vue
+│   ├── 📂 views       # Страницы
+│   ├── 📂 models      # Модели
+│   ├── App.vue        # Главный компонент
+│   ├── main.ts        # Точка входа
+│   └── style.css       # Стили (CSS)
+├── 📜 index.html      # Шаблон HTML
+├── 📜 tailwind.config.ts  # Конфигурация Tailwind
+├── 📜 vite.config.ts      # Конфигурация Vite
+├── 📜 tsconfig.json       # Конфигурация TypeScript
+├── 📜 package.json        # Зависимости и скрипты
+└── 📜 README.md           # Этот файл
+```
+
+## 🤝 Контакты
+Если у вас есть вопросы, создайте **issue** или свяжитесь со мной Telegram: @mclovin_ru. 🚀
+
