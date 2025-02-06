@@ -7,7 +7,7 @@
 1. **Склонируйте репозиторий**:
    ```sh
    git clone https://github.com/webruslan1/frontend-test-way2ar.git
-   cd ваш-репозиторий
+   cd frontend-test-way2ar
    ```
 
 2. **Установите зависимости**:
